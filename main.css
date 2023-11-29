@@ -1,0 +1,13 @@
+h1{color:red;background-color:#000000;}
+
+h2{color:rgb(255,255,255);background-color:hsl(100, 100%, 50%);}
+
+h3{background-color:yellow;}
+
+p{color:#ff9d94;}
+
+ul{color:#94ffef;}
+
+ol{color:lightgray;background-color:hsl(100, 0%, 100%);}
+
+body{background-color:hsla(303, 85%, 34%, 1);}
